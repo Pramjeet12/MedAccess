@@ -1,0 +1,8 @@
+streamlit
+streamlit-lottie
+numpy
+pickles
+scikit-learn
+tensorflow
+keras
+librosa
